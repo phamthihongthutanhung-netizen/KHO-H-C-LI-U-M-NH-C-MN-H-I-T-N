@@ -1,0 +1,8 @@
+{
+  "name": "KHO DỮ LIỆU ÂM NHẠC MẦM NON – TRƯỜNG MẦM NON HẢI TÂN",
+  "description": "Kho dữ liệu âm nhạc trực tuyến Trường Mầm non Hải Tân: chia sẻ giáo án, bài hát, âm thanh, video múa, trò chơi âm nhạc và học liệu nhạc cụ mầm non.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
